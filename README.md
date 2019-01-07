@@ -1,3 +1,3 @@
 # FirstAppRepo
 
-My first attempt at Android Studio
+My first attempt at Android Studio.
